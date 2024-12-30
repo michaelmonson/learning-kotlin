@@ -1,3 +1,5 @@
+package com.examples.example01;
+
 import java.util.logging.Logger;
 
 public class Main {
