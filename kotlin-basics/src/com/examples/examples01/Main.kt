@@ -1,4 +1,4 @@
-package com.examples.example01
+package com.examples.examples01
 
 import java.util.logging.Logger
 

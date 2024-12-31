@@ -1,4 +1,4 @@
-package com.examples.example02
+package com.examples.examples01
 
 import java.util.*
 import java.util.logging.Logger
@@ -11,8 +11,8 @@ fun main() {
     var mutableString   = "This String value CAN be changed..."
 
     //Output to show the variable values:
-    logger.info(immutableString);
-    logger.info(mutableString);
+    logger.info(immutableString)
+    logger.info(mutableString)
 
     mutableString = "See? Changed!"
     logger.info(mutableString)

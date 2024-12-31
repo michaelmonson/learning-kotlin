@@ -1,4 +1,14 @@
 # learning-kotlin
+
+The purpose of this project is to help me learn Kotlin through example.
+I find it very close to Java Syntax, but written to reduce code complexity, 
+in a way that Java would probably have been written as a modern high-level language.
+
+Kotlin Classes are arranged under packages as categories of concepts and learning.
+Simply execute the class directly.  Until I write more complex examples that span
+multiple files, each class should be self-contained... at least at first!
+
+### About Kotlin
 Kotlin is a general-purpose, open-source programming language that combines object-oriented and functional programming features. It's statically typed and interoperable with Java, Android, and the Java virtual machine (JVM). Kotlin is often used in conjunction with Java, and it's widely used to develop Android applications, server-side applications, and multiplatform mobile development. 
 Kotlin has several advantages, including: 
 
