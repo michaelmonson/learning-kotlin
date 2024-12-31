@@ -1,16 +1,9 @@
-package com.examples.example01;
+package com.examples.example01
 
-import java.util.logging.Logger;
+import java.util.logging.Logger
 
-public class Main {
+private val logger = Logger.getLogger("Main")
 
-    Logger logger = Logger.getLogger(Main.class.getName());
-
-    public static void main(String[] args) {
-
-        //NOTE:  Standard outputs should not be used directly to log anything
-//        System.out.println("Hello, World!");
-
-        logger.info("Hello World");  // Compliant, output via logger
-    }
+fun main() {
+    logger.info("Hello World")
 }
