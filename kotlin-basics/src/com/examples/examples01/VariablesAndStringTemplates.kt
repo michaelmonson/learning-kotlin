@@ -5,6 +5,10 @@ import java.util.logging.Logger
 
 private val logger = Logger.getLogger("Main")
 
+/*
+ * NOTE:  Kotlin recommends that you declare all variables as read-only (val)
+ *        by default. Declare mutable variables (var) only if necessary.
+ */
 fun main() {
     //val vs. var
     val immutableString = "This is an immutable string and cannot be changed!" //like 'final' in Java
