@@ -23,12 +23,16 @@ fun main() {
 
     //String templates:
     val name = "Developer Joe"
-    logger.info("Hello, $name! How are you?") // Simple variable reference
-    logger.info("Hello, ${name.uppercase(Locale.getDefault())}! How are you?") // Complex variable reference
-    logger.info("2 + 2 = ${2 + 2}") // Expression in template
+    println("Hello, $name! How are you?") // Simple variable reference
+    println("Hello, ${name.uppercase(Locale.getDefault())}! How are you?") // Complex variable reference
+    println("2 + 2 = ${2 + 2}") // Expression in template
 
     // Try it yourself:
     // 1. Create a variable with your name
     // 2. Log a message using string template with your name
     // 3. Try to modify a val and see what happens
+
+    val happyName = "Mary"
+    val age = 20
+    println("$happyName is $age years old")
 }
