@@ -27,4 +27,10 @@ Kotlin has a more concise syntax than Java.
 ### Additional Information
 Kotlin was developed by JetBrains and first released in 2016. In 2019, Google named Kotlin the preferred language for Android development over Java. More than 60% of professional Android developers use Kotlin. It is quickly becoming a contendor for programming, and has been named a first-class language.
 
+### Kotlin Resources
+* [Learning Materials Overview](https://kotlinlang.org/docs/learning-materials-overview.html) (Official site)
+* Kotlin Tutorial For Beginners [Learn Kotlin For Android Development](https://www.youtube.com/watch?v=SXLmr4Qp4OM&feature=youtu.be&t=0)
+* Kotlin Course - [Tutorial for Beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU&feature=youtu.be&list=WL)
+* Jetbrains Academy : [A comprehensive Kotlin Learning Guide for all levels!]([url](https://blog.jetbrains.com/education/2024/04/04/kotlin-learning-guide/))
+
 _More to come later... very soon._
